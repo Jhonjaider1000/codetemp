@@ -86,7 +86,7 @@ export default () => {
 
   const initApp = () => {
     Deplyn.initializeApp({
-      apisURL: "http://localhost:4003",
+      apisURL: "http://vmi304306.contaboserver.net:82",
       prefix: "api",
     });
 
